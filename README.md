@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ml-portfolio-banner.png" alt="Machine Learning Portfolio Banner" width="100%">
+  <img src="Machine Learning Portfolio Journey.png" alt="Machine Learning Portfolio Banner" width="100%">
 </div>
 
 # 🧠 Machine Learning Portfolio
