@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="ml-portfolio-banner.png" alt="Machine Learning Portfolio Banner" width="100%">
+</div>
+
 # 🧠 Machine Learning Portfolio
 
 Welcome to my **Machine Learning learning journey**!
